@@ -1,0 +1,6 @@
+packrat/lib*/
+.Rproj.user
+.Rhistory
+*.pdf
+R/plotting.R
+*.xlsx
